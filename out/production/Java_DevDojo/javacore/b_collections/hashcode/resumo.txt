@@ -1,0 +1,3 @@
+O HashCode é um valor gerado que o Java usa para indexar as coleções.
+Normalmente se usa o hashcode com equals, o hashcode ajuda a buscar mais rápido na
+collection.
